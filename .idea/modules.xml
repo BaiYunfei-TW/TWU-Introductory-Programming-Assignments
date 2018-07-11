@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntroductoryProgrammingExercises.iml" filepath="$PROJECT_DIR$/IntroductoryProgrammingExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroductoryProgrammingExercises_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroductoryProgrammingExercises_main.iml" group="IntroductoryProgrammingExercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroductoryProgrammingExercises_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroductoryProgrammingExercises_test.iml" group="IntroductoryProgrammingExercises" />
+    </modules>
+  </component>
+</project>
