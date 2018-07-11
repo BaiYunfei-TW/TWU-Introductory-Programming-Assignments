@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1812a398-bca5-4ef2-975f-f93c9fc548b6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/IntroductoryProgrammingExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IntroductoryProgrammingExercises/com/thoughtworks/intro/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/intro/DiamondPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/intro/FizzBuzz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/intro/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/IntroductoryProgrammingExercises/com/thoughtworks/intro/TestPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/intro/TestDiamondPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/intro/TestFizzBuzz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/intro/TestPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/DiamondPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestDiamondPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestFizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestPrimeFactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -41,11 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DiamondPrinter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiamondPrinter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/DiamondPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestTrianglePrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestTrianglePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="11" selection-start-line="11" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,6 +58,39 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TestPrimeFactor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestPrimeFactor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeFactor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/PrimeFactor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,7 +103,7 @@
       <file leaf-file-name="TestFizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestFizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="432">
               <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -402,6 +429,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestFizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/DiamondPrinter.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/PrimeFactor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestPrimeFactor.java" />
       </list>
     </option>
   </component>
@@ -509,7 +539,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestDiamondPrinter">
+  <component name="RunManager" selected="JUnit.TestPrimeFactor">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -562,7 +592,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestFizzBuzz.test_print_result_when_given_15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPrimeFactor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IntroductoryProgrammingExercises_test" />
       <extension name="coverage">
         <pattern>
@@ -573,8 +603,31 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.thoughtworks.intro" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.intro.TestFizzBuzz" />
-      <option name="METHOD_NAME" value="test_print_result_when_given_15" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.intro.TestPrimeFactor" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestPrimeFactor.should_return_result_list_when_given_30" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductoryProgrammingExercises_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thoughtworks.intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.intro" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.intro.TestPrimeFactor" />
+      <option name="METHOD_NAME" value="should_return_result_list_when_given_30" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -599,29 +652,6 @@
       <option name="MAIN_CLASS_NAME" value="com.thoughtworks.intro.TestTrianglePrinter" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestTrianglePrinter.test_draw_a_right_triangle_with_4_floors_while_given_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="IntroductoryProgrammingExercises_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thoughtworks.intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.intro" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.intro.TestTrianglePrinter" />
-      <option name="METHOD_NAME" value="test_draw_a_right_triangle_with_4_floors_while_given_4" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -684,18 +714,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.TestTrianglePrinter" />
-      <item itemvalue="JUnit.TestTrianglePrinter.test_draw_a_right_triangle_with_4_floors_while_given_4" />
       <item itemvalue="JUnit.TestDiamondPrinter" />
-      <item itemvalue="JUnit.TestFizzBuzz.test_print_result_when_given_15" />
       <item itemvalue="JUnit.TestFizzBuzz" />
+      <item itemvalue="JUnit.TestPrimeFactor.should_return_result_list_when_given_30" />
+      <item itemvalue="JUnit.TestPrimeFactor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPrimeFactor" />
+        <item itemvalue="JUnit.TestPrimeFactor.should_return_result_list_when_given_30" />
         <item itemvalue="JUnit.TestDiamondPrinter" />
         <item itemvalue="JUnit.TestFizzBuzz" />
         <item itemvalue="JUnit.TestTrianglePrinter" />
-        <item itemvalue="JUnit.TestFizzBuzz.test_print_result_when_given_15" />
-        <item itemvalue="JUnit.TestTrianglePrinter.test_draw_a_right_triangle_with_4_floors_while_given_4" />
       </list>
     </recent_temporary>
   </component>
@@ -709,23 +739,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531312278115</updated>
-      <workItem from="1531312280981" duration="4513000" />
+      <workItem from="1531312280981" duration="5239000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestDiamondPrinter - 2018.07.11 at 21h 29m 24s.xml">
-      <configuration name="TestDiamondPrinter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDiamondPrinter - 2018.07.11 at 21h 29m 36s.xml">
-      <configuration name="TestDiamondPrinter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDiamondPrinter - 2018.07.11 at 21h 32m 47s.xml">
-      <configuration name="TestDiamondPrinter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDiamondPrinter - 2018.07.11 at 21h 33m 38s.xml">
-      <configuration name="TestDiamondPrinter" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestDiamondPrinter - 2018.07.11 at 21h 34m 11s.xml">
       <configuration name="TestDiamondPrinter" configurationId="JUnit" />
     </history-entry>
@@ -744,12 +762,25 @@
     <history-entry file="TestFizzBuzz_test_print_result_when_given_15 - 2018.07.11 at 21h 48m 39s.xml">
       <configuration name="TestFizzBuzz.test_print_result_when_given_15" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestTrianglePrinter - 2018.07.11 at 21h 51m 59s.xml">
+      <configuration name="TestTrianglePrinter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz - 2018.07.11 at 21h 52m 04s.xml">
+      <configuration name="TestFizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDiamondPrinter - 2018.07.11 at 21h 52m 08s.xml">
+      <configuration name="TestDiamondPrinter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPrimeFactor_should_return_result_list_when_given_30 - 2018.07.11 at 22h 02m 58s.xml">
+      <configuration name="TestPrimeFactor.should_return_result_list_when_given_30" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4513000" />
+    <option name="totallyTimeSpent" value="5239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -768,8 +799,8 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32770744" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -791,7 +822,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestDiamondPrinter.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -802,19 +841,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" selection-start-line="11" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/Printer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/TrianglePrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="9" selection-end-column="5" />
@@ -832,6 +859,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/DiamondPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestTrianglePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" selection-start-line="11" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestFizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestDiamondPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -844,22 +907,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestFizzBuzz.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/PrimeFactor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/intro/DiamondPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/intro/TestPrimeFactor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        <state relative-caret-position="364">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
